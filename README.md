@@ -13,6 +13,11 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> </p>
 
+---
+
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@missingno247?theme=rule34"/></a><br/>
+
+---
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=missingno247&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
