@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Gh0stie :3</h1>
+<h1 align="center">Hello, I'm Gh0st1e :3</h1>
 
 ---
 
