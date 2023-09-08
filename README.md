@@ -3,7 +3,7 @@
 ---
 
 <h3 align="center">{A little nerd trying to learn programming for game development}</h3>
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bd5320c7-4ab7-4ae6-8432-c27ed60472df/dfv2u7t-d25745a5-5f4d-4210-bffc-95e92f434638.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JkNTMyMGM3LTRhYjctNGFlNi04NDMyLWMyN2VkNjA0NzJkZlwvZGZ2MnU3dC1kMjU3NDVhNS01ZjRkLTQyMTAtYmZmYy05NWU5MmY0MzQ2MzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vi0UAm2qJIeoH_WGvSBt5eiDuTWGFnudsgge6FG_Wcs">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/a6/34/3d/a6343d4c45bd5c20205ce41570ce29e4.jpg">
 
 - I’m currently working on **small projects in my AP Comp Sci class to get a better understanding of coding languages and how to code with differently.**
 
