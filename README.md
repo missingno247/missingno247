@@ -3,7 +3,7 @@
 ---
 
 <h3 align="center">{A little nerd trying to learn programming for game development}</h3>
-<img align="right" alt="Coding" width="400" height="320" src="https://i.pinimg.com/564x/a6/34/3d/a6343d4c45bd5c20205ce41570ce29e4.jpg">
+<img align="right" alt="Coding" width="320" height="320" src="file:///C:/Users/missi/OneDrive/Pictures/Gifs/6556ca0886a22948573c1845169e7a21.gif">
 
 - I’m currently working on **small projects in my AP Comp Sci class to get a better understanding of coding languages and how to code with differently.**
 
