@@ -5,7 +5,7 @@
 <h3 align="center">{A little nerd trying to learn programming for game development}</h3>
 
 
-- I’m currently working on **small projects in my AP Comp Sci class to get a better understanding of coding languages and how to code with differently.**
+- I’m currently working on **small projects in my AP Comp Sci class to get a better understanding of coding languages and how to code.**
 
 - I’m currently learning **how to code with C#, Java, and how to work in game development.**
 
