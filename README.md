@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/78/47/ec/7847ecea51ed5dab456928bc9bf5213a.gif)
+![MasterHead]()
 <h1 align="center">Helo, I'm gh0st <3</h1>
 <h3 align="center">{A little nerd learning Game Development}</h3>
 <img align="right" alt="Glitch" width="400" src="https://i.pinimg.com/originals/e0/ad/7f/e0ad7f33b0d5e65c014d6ab77ebbf717.gif">
