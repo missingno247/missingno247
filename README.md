@@ -1,7 +1,7 @@
-![MasterHead](https://i.pinimg.com/originals/67/5b/b6/675bb6b2ea36a6d4f5c32ffc9744147d.gif)
+![MasterHead](https://i.pinimg.com/originals/78/47/ec/7847ecea51ed5dab456928bc9bf5213a.gif)
 <h1 align="center">Helo, I'm gh0st <3</h1>
 <h3 align="center">{A little nerd learning Game Development}</h3>
-<img align="right" alt="Glitch" width="400" src="https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif">
+<img align="right" alt="Glitch" width="400" src="https://i.pinimg.com/originals/e0/ad/7f/e0ad7f33b0d5e65c014d6ab77ebbf717.gif">
 
 - I’m currently working on **small projects in my AP Comp Sci class to get a better understanding of coding languages and how to code.**
 
