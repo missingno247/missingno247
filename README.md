@@ -1,4 +1,4 @@
-<h1 align="center">Helo, I'm gh0st <3</h1>
+<h1 align="center">Helo, I'm Gh0st!</h1>
 <h3 align="center">{A little nerd learning Game Development}</h3>
 <img align="right" alt="Glitch" width="398" height="375" src="https://i.pinimg.com/originals/54/10/02/5410028b3d3188cc4bdf1a43717cf79b.gif">
 
