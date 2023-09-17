@@ -1,7 +1,7 @@
 ![MasterHead]()
 <h1 align="center">Helo, I'm gh0st <3</h1>
 <h3 align="center">{A little nerd learning Game Development}</h3>
-<img align="right" alt="Glitch" width="400" src="https://i.pinimg.com/originals/e0/ad/7f/e0ad7f33b0d5e65c014d6ab77ebbf717.gif">
+<img align="right" alt="Glitch" width="400" src="">
 
 - I’m currently working on **small projects in my AP Comp Sci class to get a better understanding of coding languages and how to code.**
 
