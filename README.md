@@ -15,6 +15,10 @@
 
 ---
 
+<img align="center" alt="Code" width="1018" height="330" src="https://i.pinimg.com/originals/a0/95/a2/a095a26603ed3ff8cd432fb32454931f.gif">
+
+---
+
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=missingno247&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=missingno247&theme=tokyonight&hide_border=false)<br/>
