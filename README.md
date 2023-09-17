@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/d0/e0/e2/d0e0e259bf0aba4da742bedff1d4b8a5.gif)
+![MasterHead](https://i.pinimg.com/originals/78/47/ec/7847ecea51ed5dab456928bc9bf5213a.gif)
 <h1 align="center">Helo, I'm gh0st <3</h1>
 <h3 align="center">{A little nerd learning Game Development}</h3>
 <img align="right" alt="Glitch" width="400" src="file:///C:/Users/missi/OneDrive/Pictures/Gifs/dfv2u7t-d25745a5-5f4d-4210-bffc-95e92f434638.gif">
