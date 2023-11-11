@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Gh0st!</h1>
 <h3 align="center">{A little nerd learning Game Development}</h3>
-<img align="right" alt="Glitch" width="395" height="375" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
+<img align="right" alt="Glitch" width="392" height="375" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
 
 - I’m currently working on **small projects in my AP Comp Sci class to get a better understanding of coding languages and how to code.**
 
